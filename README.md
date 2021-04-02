@@ -4,9 +4,9 @@
 Marcel Ferreira is a Brazilian medical physicist with a master's degree in biotechnology who works in the development of computational tools for the development of biomaterials for tissue regeneration. 
 
 ### Education and qualification
-1. Bachelor in Medical Physics (Physics and Biophysics) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2011-02-01 to 2015-02-28
-2. Master in Biotechnology (Chemestry and Biochemistry) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2015-03-02 to 2017-02-24
-3. PhD in Biotecnology (Chemical and Biological Sciences) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2017-03-01 to present
+1. Bachelor in Medical Physics (Physics and Biophysics) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2011 to 2015
+2. Master in Biotechnology (Chemestry and Biochemistry) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2015 to 2017
+3. PhD in Biotecnology (Chemical and Biological Sciences) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2017 to present
 
 ### Markdown
 
