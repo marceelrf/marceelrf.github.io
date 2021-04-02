@@ -1,7 +1,7 @@
 ## Welcome to marceelrf
 
 ### Who is Marcel Ferreira (marceelrf)?
-Marcel Ferreira is a Brazilian medical physicist with a master's degree in biotechnology who works in the development of computational tools for the development of biomaterials for tissue regeneration. 
+Marcel Ferreira is a Brazilian medical physicist with a master’s degree in biotechnology who works in developing computational tools for the development of biomaterials for tissue regeneration. 
 
 [Scholar](scholar.google.com.br/citations?user=lS42GYwAAAAJ&hl=pt-BR) | [Orcid](https://orcid.org/0000-0002-3445-0945)
 
