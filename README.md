@@ -1,8 +1,7 @@
 ## Welcome to marceelrf
 
-You can use the [editor on GitHub](https://github.com/marceelrf/marceelrf.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who is Marcel Ferreira (marceelrf)?
+Marcel Ferreira is a Brazilian medical physicist with a master's degree in biotechnology who works in the development of computational tools for the development of biomaterials for tissue regeneration. 
 
 ### Markdown
 
