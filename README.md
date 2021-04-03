@@ -53,3 +53,4 @@ Please check the full list of publications on my [google scholar profile](https:
 
 - email: marcel.ferreira@unesp.br
 - Twitter & Instagram : @marceelrf (My personal life and non-professional opinions.)
+- Lattes: http://lattes.cnpq.br/5630742099737794
