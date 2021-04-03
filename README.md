@@ -11,10 +11,12 @@ Marcel Ferreira is a Brazilian medical physicist with a master’s degree in bio
 
 ### Skills
 - Proficiency in data analysis with R
-- Statistical inference
-- Mathematical modeling
+- Statistical knowledge  
 - Machine learning scientist
 - Bioinformatics specialist
+- High throughput sequencing analysis
+- Protein-protein interaction network analysis
+- Cell culture
 
 
 ### Education and qualification
