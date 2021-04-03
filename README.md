@@ -19,7 +19,7 @@ Marcel Ferreira is a Brazilian medical physicist with a master’s degree in bio
 3. PhD in Biotecnology (Chemical and Biological Sciences) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2017 to present
 4. R programmer | Datacamp | 2018
 5. Data Scientist with R | Datacamp | 2019
-6. Machine Learning Scientist with r | Datacamp | 2021
+6. Machine Learning Scientist with R | Datacamp | 2021
 
 ### Selected publications
 - [GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.a.37090)
