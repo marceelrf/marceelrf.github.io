@@ -3,7 +3,7 @@
 ### Who is Marcel Ferreira (marceelrf)?
 Marcel Ferreira is a Brazilian medical physicist with a master’s degree in biotechnology who works in developing computational tools for the development of biomaterials for tissue regeneration. 
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_Scholar_logo.svg&psig=AOvVaw1BabUmxMcPPSsIRBO_NUy0&ust=1617496298790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDp4bTp4O8CFQAAAAAdAAAAABAD" width="20" height="20"/> [Scholar](https://scholar.google.com.br/citations?user=lS42GYwAAAAJ&hl=pt-BR) | [Orcid](https://orcid.org/0000-0002-3445-0945)
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-dwexko%2F&psig=AOvVaw1BabUmxMcPPSsIRBO_NUy0&ust=1617496298790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDp4bTp4O8CFQAAAAAdAAAAABAI" width="20" height="20"/> [Scholar](https://scholar.google.com.br/citations?user=lS42GYwAAAAJ&hl=pt-BR) | [Orcid](https://orcid.org/0000-0002-3445-0945)
 
 ### Skills
 - Proficiency in data analysis with R
