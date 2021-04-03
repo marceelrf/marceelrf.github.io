@@ -31,7 +31,7 @@ Marcel Ferreira is a Brazilian medical physicist with a master’s degree in bio
 3. Marketing director (*Junior company*) | Nucleon JR | 2013 to 2014
 4. Maths teacher (*Volunteer*) | Cursinho do IB | 2015
 5. Discipline Coordinator - Mathematics (*Volunteer*) | Cursinho do IB | 2015
-6. Pysichs teacher (*Volunteer*) | Cursinho do IB | 2016 to 2017
+6. Physics teacher (*Volunteer*) | Cursinho do IB | 2016 to 2017
 7. Discipline Coordinator - Pysichs (*Volunteer*) | Cursinho do IB | 2016 to 2017
 8. Master's Degree student (*FAPESP scholarship*) | LaBIO - Laboratory of bioassays and cell dynamics | 2015 to 2017
 9. PhD student (*FAPESP scholarship*) | LaBIO - Laboratory of bioassays and cell dynamics | 2017 to present
