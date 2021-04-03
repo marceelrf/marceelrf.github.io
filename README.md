@@ -16,7 +16,7 @@ Marcel Ferreira is a Brazilian medical physicist with a master’s degree in bio
 ### Education and qualification
 1. Bachelor in Medical Physics (Physics and Biophysics) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2011 to 2015
 2. Master in Biotechnology (Chemestry and Biochemistry) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2015 to 2017
-3. PhD in Biotecnology (Chemical and Biological Sciences) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2017 to present
+3. PhD in Biotechnology (Chemical and Biological Sciences) | São Paulo State University (Unesp), Institute of Biosciences, Botucatu | 2017 to present
 4. R programmer | Datacamp | 2018
 5. Data Scientist with R | Datacamp | 2019
 6. Machine Learning Scientist with R | Datacamp | 2021
