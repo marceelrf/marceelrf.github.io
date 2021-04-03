@@ -7,7 +7,7 @@ Marcel Ferreira is a Brazilian medical physicist with a master’s degree in bio
 
 ### Current location
 **LaBIO** - Laboratory of bioassays and cell dynamics - São Paulo State University (Unesp), Institute of Biosciences, Botucatu  
-**Supervisor** - [Willian Fernando Zambuzzi](https://scholar.google.com.br/citations?user=bMhT1QsAAAAJ&hl=pt-BR)
+**Supervisor** - prof. Dr. [Willian Fernando Zambuzzi](https://scholar.google.com.br/citations?user=bMhT1QsAAAAJ&hl=pt-BR)
 
 ### Skills
 - Proficiency in data analysis with R
