@@ -21,6 +21,17 @@ Marcel Ferreira is a Brazilian medical physicist with a master’s degree in bio
 5. Data Scientist with R | Datacamp | 2019 | 
 6. Machine Learning Scientist with R | Datacamp | 2021 | 
 
+### Experience
+1. Maths teacher (*Volunteer*) | Cursinho Desafio | 2011
+2. Maths teacher (*Volunteer*) | Cursinho Eukaípia | 2012 to 2013
+3. Marketing director (*Junior company*) | Nucleon JR | 2013 to 2014
+4. Maths teacher (*Volunteer*) | Cursinho do IB | 2015
+5. Discipline Coordinator - Mathematics (*Volunteer*) | Cursinho do IB | 2015
+6. Pysichs teacher (*Volunteer*) | Cursinho do IB | 2016 to 2017
+7. Discipline Coordinator - Pysichs (*Volunteer*) | Cursinho do IB | 2016 to 2017
+8. Master's Degree student (*FAPESP scholarship*) | LaBIO - Laboratory of bioassays and cell dynamics | 2015 to 2017
+9. PhD student (*FAPESP scholarship*) | LaBIO - Laboratory of bioassays and cell dynamics | 2017 to present
+
 ### Selected publications
 - [GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.a.37090)
 - [Platelet microparticles load a repertory of miRNAs programmed to drive osteogenic phenotype](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.a.37140)
