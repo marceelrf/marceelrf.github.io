@@ -53,7 +53,6 @@ Please check the full list of publications on my [google scholar profile](https:
 ### Contact
 
 - email: marcel.ferreira@unesp.br
-- Twitter & Instagram : @marceelrf (My personal life and non-professional opinions.)
+- Twitter: @MarcelRFerreira
 - Lattes: http://lattes.cnpq.br/5630742099737794
 
-<iframe src="https://koalendar.com/e/meet-with-marcel-ferreira?embed=true" width="100%" height="800px" frameborder="0"></iframe>
