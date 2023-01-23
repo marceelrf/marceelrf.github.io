@@ -37,7 +37,7 @@ Marcel Ferreira is a Brazilian medical physicist with a master’s and Ph.D degr
 7. Discipline Coordinator - Pysichs (*Volunteer*) | Cursinho do IB | 2016 to 2017
 8. Master's Degree student (*FAPESP scholarship*) | LaBIO - Laboratory of bioassays and cell dynamics | 2015 to 2017
 9. PhD student (*FAPESP scholarship*) | LaBIO - Laboratory of bioassays and cell dynamics | 2017 to 2023
-10. Visiting scholar | NYU - New York University, Dental School | 2022
+10. Visiting scholar (*FAPESP scholarship*) | NYU - New York University, Dental School | 2022
 
 ### Selected publications
 - [GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.a.37090)
